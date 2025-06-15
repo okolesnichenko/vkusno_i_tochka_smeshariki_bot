@@ -1,0 +1,6 @@
+vit_host: 'https://vkusnoitochka.ru'
+vit_menu_url: '/api/menu/restaurant/:city_object_id'
+vit_region_url: '/api/restaurants/near?long=:long&lat=:lat'
+
+tg_bot_api: 'ваш код'
+my_chat_id: 000000000
